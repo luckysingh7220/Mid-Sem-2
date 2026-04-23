@@ -74,9 +74,9 @@ const Register = () => {
       <div className="auth-container">
         <div className="auth-card glass">
           <div className="auth-header">
-            <div className="auth-logo">⚡</div>
-            <h1 className="auth-title">Create account</h1>
-            <p className="auth-subtitle">Get started with your free account today</p>
+            <div className="auth-logo">🔍</div>
+            <h1 className="auth-title">Create Account</h1>
+            <p className="auth-subtitle">Join the campus Lost &amp; Found system</p>
           </div>
 
           <form onSubmit={handleSubmit} className="auth-form" noValidate>

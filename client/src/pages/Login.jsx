@@ -56,9 +56,9 @@ const Login = () => {
       <div className="auth-container">
         <div className="auth-card glass">
           <div className="auth-header">
-            <div className="auth-logo">⚡</div>
-            <h1 className="auth-title">Welcome back</h1>
-            <p className="auth-subtitle">Sign in to your account to continue</p>
+            <div className="auth-logo">🔍</div>
+            <h1 className="auth-title">Welcome Back</h1>
+            <p className="auth-subtitle">Sign in to the Lost &amp; Found system</p>
           </div>
 
           <form onSubmit={handleSubmit} className="auth-form" noValidate>
